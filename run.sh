@@ -1,0 +1,1 @@
+python styleTransfer.py --content_path /media/dereyly/svision_ssd2/ImageDB/photo/tiktok/photo_2022-04-03_16-48-02.jpg --style_path /media/dereyly/data_hdd/progs/SuricatVision/grpc_images/weights/style_imgs/in-5.jpg --output_path /media/dereyly/svision_ssd2/ImageDB/photo/st/1.jpg #--high_res
